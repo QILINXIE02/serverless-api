@@ -1,0 +1,12 @@
+{
+  "name": "my-lambda-project",
+  "version": "1.0.0",
+  "description": "AWS Lambda project for managing people records using DynamoDB and API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "dynamoose": "^3.0.0"
+  }
+}
