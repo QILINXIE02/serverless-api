@@ -2,19 +2,18 @@
 Create a single resource REST API using a domain model, constructed using AWS Cloud Services.
 
 ## Screenshots
-- Lambda Execution results: ![alt text](image-1.png)
 
+- 1. POST/people [POST Folder](POST) :![alt text](image-2.png)
 
-- POST/people [POST Folder](POST)
+- 2. GET/PEOPLE [GET Folder](GET-ID) :![alt text](image-5.png)
 
-- GET/PEOPLE [GET Folder](GET-ID)
+- 3. GET/PEOPLE/ID [GET ID FOLDER](GET-ID): ![alt text](image-4.png)
 
-- GET/PEOPLE/ID [GET ID FOLDER](GET-ID)
-
-- PUT/People/ID [PUT-ID FOLDER](PUT-ID)
+- 4. PUT/People/ID [PUT-ID FOLDER](PUT-ID): ![alt text](image-3.png) and ![alt text](image-1.png)
  
-- DELETE/PEOPLE/ID [Delete FOLDER](DeletebyID)
+- 5. DELETE/PEOPLE/ID [Delete FOLDER](DeletebyID): ![alt text](image-6.png)
 
+* CURD operations are not updated in their respective folders
 
 ## UML: 
 ![alt text](image.png)
